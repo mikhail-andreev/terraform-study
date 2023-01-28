@@ -1,0 +1,4 @@
+%{ for idx, ip in ip_addrs ~}
+${idx+1}: ${element(fqdn, idx)} : ${ip} : ${element(pass, idx)}
+%{ endfor ~}
+

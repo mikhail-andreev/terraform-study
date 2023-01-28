@@ -1,0 +1,17 @@
+do_token = 
+public_ssh_key_path = 
+private_ssh_key_path = 
+image = 
+name = 
+size = 
+name_of_course = 
+name_of_task = 
+email = 
+username = 
+rebrain_ssh_key_name =
+DNS_record_zone = 
+access_key = 
+secret_key = 
+region = 
+zone_name = 
+devs = 
